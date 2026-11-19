@@ -1,0 +1,10 @@
+T001|Paracetamol 500mg|Giảm đau - hạ sốt|Hộp|25000.0|50|31/12/2027|Dược Hậu Giang|14
+T002|Vitamin C 500mg|Vitamin|Hộp|35000.0|40|30/06/2028|Dược ABC|5
+T003|Amoxicillin 500mg|Kháng sinh|Hộp|68000.0|3|15/08/2027|Imexpharm|0
+T004|Berberin 100mg|Tiêu hóa|Lọ|12000.0|60|20/03/2027|Domesco|8
+T005|Siro ho Prospan|Ho - cảm|Chai|85000.0|20|10/09/2026|Dược Sao Mai|0
+T006|Oresol|Tiêu hóa|Gói|5000.0|100|30/11/2026|Domesco|0
+T007|Cetirizin 10mg|Dị ứng|Hộp|30000.0|4|01/12/2027|Dược Hậu Giang|0
+T008|Ibuprofen 400mg|Giảm đau - hạ sốt|Hộp|42000.0|35|28/02/2028|Dược ABC|3
+T009|Nước muối sinh lý 0.9%|Vệ sinh|Chai|9000.0|80|31/05/2028|Dược Sao Mai|0
+T010|Vitamin B1|Vitamin|Hộp|28000.0|25|30/06/2028|Dược ABC|0
